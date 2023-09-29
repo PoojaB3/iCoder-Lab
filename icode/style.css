@@ -1,0 +1,36 @@
+.or{
+    color: orange;
+    font-size: 125%;
+}
+#c2{
+    border-radius: 1.5rem;
+}
+#car{
+    border-radius: 2rem;
+    line-height: 1.5;
+    background-color: rgb(224, 236, 224);
+    /* background-image: url(./images/bg1.jpg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: center; */
+}
+
+#b,#b1{
+    border-radius: 2rem;
+    color:black;
+    font-size: larger;
+}
+.im,#im{
+    border-radius: 50%;
+}
+.card-back{
+    background-color: orange;
+    border-radius: 1rem;
+    line-height: 95%;
+    padding: 0.2rem;
+}
+.card-back:hover{
+    transform: scale(1.15);
+    transition: 0.5s ease;
+}
+
